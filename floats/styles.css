@@ -1,7 +1,15 @@
-header,
-section,
-aside,
+header{
+
+}
+section {
+	clear: both;
+	float: left;
+	}
+aside{
+	float: right;
+}
 footer {
+	clear: both;
   margin: 0 1.5% 24px 1.5%;
 }
 
